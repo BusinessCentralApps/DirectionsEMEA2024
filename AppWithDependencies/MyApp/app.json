@@ -2,7 +2,7 @@
   "id": "9840a1ce-1470-485e-8ae1-569d0b47771c",
   "name": "MyApp",
   "publisher": "Freddy",
-  "version": "1.0.0.0",
+  "version": "3.0.0.0",
   "brief": "",
   "description": "",
   "privacyStatement": "",
@@ -32,7 +32,7 @@
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
-  "application": "22.0.0.0",
+  "application": "25.0.0.0",
   "idRanges": [
     {
       "from": 80000,
