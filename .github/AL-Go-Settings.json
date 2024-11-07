@@ -12,5 +12,10 @@
     "ContinuousDeployment": false,
     "DependencyInstallMode": "Upgrade",
     "Projects": "AppWithDependencies"
+  },
+  "trustedSigning": {
+    "Endpoint": "https://neu.codesigning.azure.net/",
+    "Account": "BCCodeSigningTest",
+    "CertificateProfile": "BCCodeSigningPublic"
   }
 }
