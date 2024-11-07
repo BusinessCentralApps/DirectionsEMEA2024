@@ -10,7 +10,7 @@
     "DependencyInstallMode": "Ignore",
     "Projects": "AppWithDependencies"
   },
-  "DeployToQA1": {
+  "DeployToQA2": {
     "ContinuousDeployment": false,
     "DependencyInstallMode": "Upgrade",
     "Projects": "AppWithDependencies"
