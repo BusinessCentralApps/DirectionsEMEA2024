@@ -7,7 +7,7 @@
     "tag": "10UserTest",
     "bcptSuiteLines": [
         {
-            "codeunitID": 60007,
+            "codeunitID": 50007,
             "numberOfSessions": 1,
             "description": "BCPT Detail Trial Bal. Report",
             "minimumUserDelay": 100,
@@ -17,7 +17,7 @@
             "runInForeground": false
         },
         {
-            "codeunitID": 60003,
+            "codeunitID": 50003,
             "numberOfSessions": 1,
             "description": "BCPT Create PO with N Lines",
             "minimumUserDelay": 100,
@@ -28,7 +28,7 @@
             "parameters": "Lines=10"
         },
         {
-            "codeunitID": 60005,
+            "codeunitID": 50005,
             "numberOfSessions": 1,
             "description": "BCPT Create SQ with N Lines",
             "minimumUserDelay": 100,
@@ -39,7 +39,7 @@
             "parameters": "Lines=10"
         },
         {
-            "codeunitID": 60004,
+            "codeunitID": 50004,
             "numberOfSessions": 1,
             "description": "BCPT Create SO with N Lines",
             "minimumUserDelay": 100,
