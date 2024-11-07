@@ -1,0 +1,6 @@
+{
+  "DurationWarning": 15,
+  "DurationError": 30,
+  "NumberOfSqlStmtsWarning": 10,
+  "NumberOfSqlStmtsError": 20
+}
