@@ -8,5 +8,8 @@
   "generateDependencyArtifact": true,
   "skipUpgrade": true,
   "doNotRunTests": true,
-  "artifact":"https://bcartifacts-exdbf9fwegejdqak.b02.azurefd.net/sandbox/25.1.25873.26319/us"
+  "artifact":"https://bcartifacts-exdbf9fwegejdqak.b02.azurefd.net/sandbox/25.1.25873.26319/us",
+  "runs-on": "ubuntu-latest",
+  "githubRunner": "freddyk",
+  "githubRunnerShell": "pwsh"
 }
