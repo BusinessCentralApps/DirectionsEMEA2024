@@ -1,8 +1,8 @@
 {
   "country": "us",
-  "appFolders": [],
-  "testFolders": [],
-  "bcptTestFolders": [],
+  "appFolders": [ "MyApp"],
+  "testFolders": [ "MyApp.Test" ],
+  "bcptTestFolders": [ "MyApp.PerformanceTest" ],
   "pageScriptingTests": [ "Recordings" ],
   "repoVersion": "1.0",
   "artifact": "https://bcartifacts-exdbf9fwegejdqak.b02.azurefd.net/sandbox/24.5.23489.26452/us",
