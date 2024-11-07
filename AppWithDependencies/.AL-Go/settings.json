@@ -1,0 +1,10 @@
+{
+  "country": "us",
+  "appFolders": [],
+  "testFolders": [],
+  "bcptTestFolders": [],
+  "useCompilerFolder": true,
+  "doNotPublishApps": true,
+  "generateDependencyArtifact": true,
+  "artifact":"https://bcartifacts-exdbf9fwegejdqak.b02.azurefd.net/sandbox/25.1.25873.26319/us"
+}

@@ -1,5 +1,18 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/microsoft/AL-Go-PTE@preview",
-  "templateSha": "c62bf167f8c516d997bed1ed600a9d03d5093ad5"
+  "templateSha": "c62bf167f8c516d997bed1ed600a9d03d5093ad5",
+  "runs-on": "ubuntu-latest",
+  "githubRunner": "freddyk",
+  "githubRunnerShell": "pwsh",
+  "DeployToQA": {
+    "ContinuousDeployment": false,
+    "DependencyInstallMode": "Ignore",
+    "Projects": "AppWithDependencies"
+  },
+  "DeployToQA1": {
+    "ContinuousDeployment": false,
+    "DependencyInstallMode": "Upgrade",
+    "Projects": "AppWithDependencies"
+  }
 }
