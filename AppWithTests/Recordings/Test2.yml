@@ -18,7 +18,7 @@ steps:
     target:
       - page: Customer List
         runtimeRef: b8m
-      - repeater: Control166
+      - repeater: Control1
     invokeType: Edit
     description: Invoke row on <caption>Control1</caption>
   - type: page-shown
