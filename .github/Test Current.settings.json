@@ -1,5 +1,5 @@
 {
-  "artifact": "////latest",
+  "artifact": "//24.5//latest",
   "cacheImageName": "",
   "versioningStrategy": 15,
   "doNotRunBcptTests": false
