@@ -18,5 +18,6 @@
     "Endpoint": "https://neu.codesigning.azure.net/",
     "Account": "BCCodeSigningTest",
     "CertificateProfile": "BCCodeSigningPublic"
-  }
+  },
+  "PullRequestTrigger": "pull_request"
 }
